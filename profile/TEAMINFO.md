@@ -1,6 +1,6 @@
 # 👥 Team Information
 
-![Team Information](/assets/team-information.jpg)
+![Team Information](/profile/assets/team-information.jpg)
 
 ## 👨‍💻 Team Members:
 

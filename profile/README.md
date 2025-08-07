@@ -1,6 +1,6 @@
 # 🚀 V.A.S.T. Event Coding Hackathon 👨🏻‍💻
 
-![V.A.S.T. Hackathon](/assets/banner.jpg)
+![V.A.S.T. Hackathon](/profile/assets/banner.jpg)
 
 ## 📑 Table of Contents
 
